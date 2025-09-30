@@ -1,4 +1,4 @@
-# Clean Architecture in Flutter – Tutorial Project
+# Clean Architecture in Flutter – Blog App Project
 
 This repository contains my completed project  on building a full-stack Flutter application using **Clean Architecture**.
 
